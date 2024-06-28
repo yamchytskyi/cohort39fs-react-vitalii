@@ -1,17 +1,26 @@
 import "./App.css";
 
-// Lessons
+// Lessons:
 // import Lesson_02 from "./lessons/lesson_02/Lesson_02"
 
-// Homeworks
+// Homeworks:
 import Homework_02 from "./homeworks/Homework_02/Homework_02";
+
+// Consultations:
+// import Consultation_02 from "./consultations/Consultation_01/Consultation_01"
 
 function App() {
   return (
     <div className="App">
       <p>This is my first react project</p>
+      {/* Lessons: */}
       {/* <Lesson_02/> */}
+
+      {/* Homeworks: */}
       <Homework_02 />
+
+      {/* Consultations: */}
+      {/* <Consultation_02 /> */}
     </div>
   );
 }

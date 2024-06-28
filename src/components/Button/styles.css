@@ -1,4 +1,4 @@
-.button {
+.button-component {
     width: 150px;
     height: 70px;
     padding: 20px;
@@ -7,4 +7,12 @@
     font-size: 20px;
     color: wheat;
     border-radius: 6px;
+}
+
+.main-button {
+    background-color: rgb(46, 19, 164);
+}
+
+.delete-button {
+    background-color: rgb(142, 11, 11);
 }
