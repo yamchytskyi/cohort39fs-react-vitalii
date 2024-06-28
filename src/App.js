@@ -12,6 +12,8 @@ function App() {
       <p>This is my first react project</p>
       {/* <Lesson_02/> */}
       <Homework_02 />
+      <Homework_02 />
+      <Homework_02 />
     </div>
   );
 }

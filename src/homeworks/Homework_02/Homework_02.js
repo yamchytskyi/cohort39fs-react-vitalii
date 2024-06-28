@@ -71,7 +71,6 @@ function Homework_02() {
             </td>
           </tr>
           <tr>
-            {" "}
             <th className="infobox-label">Created by</th>
             <td className="infobox-data">Matt Groening</td>
           </tr>
@@ -80,7 +79,6 @@ function Homework_02() {
             <td className="infobox-data"> Matt Groening</td>
           </tr>
           <tr>
-            {" "}
             <th className="infobox-label">Voiced by</th>
             <td className="infobox-data"> Dan Castellaneta</td>
           </tr>
@@ -97,7 +95,6 @@ function Homework_02() {
             <td className="infobox-data">Springfield Nuclear Power Plant</td>
           </tr>
           <tr>
-            {" "}
             <th className="infobox-label">Family</th>
             <td className="infobox-data">
               <ul>
@@ -123,7 +120,6 @@ function Homework_02() {
             </td>
           </tr>
           <tr>
-            {" "}
             <th className="infobox-label">Relatives</th>
             <td className="infobox-data">
               <ul>
@@ -134,14 +130,12 @@ function Homework_02() {
             </td>
           </tr>
           <tr>
-            {" "}
             <th className="infobox-label">Home</th>
             <td className="infobox-data">
               742 Evergreen Terrace, Springfield, United States
             </td>
           </tr>
           <tr>
-            {" "}
             <th className="infobox-label">Nationality</th>
             <td className="infobox-data">American</td>
           </tr>
