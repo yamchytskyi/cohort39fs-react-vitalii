@@ -1,0 +1,13 @@
+.button-component {
+    width: 150px;
+    height: 70px;
+    padding: 20px;
+    margin: 20px;
+    border: none;
+    background-color: rgb(46, 46, 186);
+    font-size: 20px;
+    color: wheat;
+    border-radius: 6px;
+    cursor: pointer;
+}
+

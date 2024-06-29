@@ -2,7 +2,7 @@ import "./styles.css";
 function Button() {
   let name = "Delete";
   const className =
-    name !== "Delete"
+    name !== "Send"
       ? "main-button"
       : "delete-button";
 
