@@ -1,6 +1,6 @@
 import "./styles.css";
 import SimpsonsCard from "../../components/SimpsonsCard/SimpsonsCard";
-import Button_children from "../../components/Button_children/Button_children";
+import Button_children from "../../components/Button/Button";
 
 const homerSimpson = {
   firstName: "Homer",

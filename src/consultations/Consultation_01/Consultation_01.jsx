@@ -1,6 +1,6 @@
 import "./styles.css";
 import avatar from "../../assets/avatar.png";
-import Button from "../../components/Button/Button";
+import Button from "../../components/Button_consultation/Button_consultation";
 import { userData } from "./data";
 
 function Consultation_02() {
