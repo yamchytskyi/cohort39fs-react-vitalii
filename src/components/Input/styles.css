@@ -1,0 +1,17 @@
+label {
+    display: block;
+    margin-bottom: 5px;
+    color: gray;
+    font-size: 16px;
+}
+
+.input-component {
+  width: 100%;
+  max-width: 470px;
+  height: auto;
+  max-height: 176px;
+  padding: 12px;
+  font-size: 14px;
+  border-radius: 4px solid;
+  gap: 20px;
+}

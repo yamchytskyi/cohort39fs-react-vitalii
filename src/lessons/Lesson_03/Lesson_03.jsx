@@ -1,6 +1,6 @@
 import "./styles.css";
 import SimpsonsCard from "../../components/SimpsonsCard/SimpsonsCard";
-import Button_children from "../../components/Button/Button";
+import Button from "../../components/Button/Button";
 
 const homerSimpson = {
   firstName: "Homer",
@@ -58,9 +58,9 @@ function Lesson_03() {
         <SimpsonsCard userData={bartSimpson} />
       </div>
       <div>
-        <Button_children></Button_children>
-        <Button_children>Update</Button_children>
-        <Button_children>Delete</Button_children>
+        <Button></Button>
+        <Button>Update</Button>
+        <Button>Delete</Button>
       </div>
     </div>
   );

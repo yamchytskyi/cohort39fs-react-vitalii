@@ -1,8 +1,7 @@
 import "./styles.css";
 
-// children 
-function Button_children({ children = "Send" }) {
-  return <button className="button-component">{children}</button>;
+function Button({ name = "Button" , type}) {
+  return <button className="button-component" type={type}>{name}</button>;
 }
 
-export default Button_children;
+export default Button;
