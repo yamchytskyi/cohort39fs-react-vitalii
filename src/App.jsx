@@ -1,32 +1,35 @@
 import "./App.css";
 
-// ---------------------------------------------------------Lessons-----------------------------------------------------------
+//                                                   Lessons
 
 // import Lesson_02 from "./lessons/lesson_02/Lesson_02"
+// import Lesson_03 from "./lessons/Lesson_03/Lesson_03"
 
-// ---------------------------------------------------------Homeworks---------------------------------------------------------
+//                                                   Homeworks
 
 // import Homework_02 from "./homeworks/Homework_02/Homework_02";
 // import Homework_02_solution from "./homeworks/Homework_02/Homework_02_solution"
-// import Lesson_03 from "./lessons/Lesson_03/Lesson_03"
+  import Homework_03 from "./homeworks/Homework_03/Homework_03";
 
-//  --------------------------------------------------------Consultations-----------------------------------------------------
+//                                                   Consultations
 
 // import Consultation_02 from "./consultations/Consultation_01/Consultation_01"
+
 
 function App() {
   return (
     <div className="App">
-      <p>This is my first react project</p>
-      {/* ----------------------------------------------------Lessons---------------------------------------------------------*/}
+      {/* ---------------------------------------------------- Lessons ---------------------------------------------------------*/}
       {/* <Lesson_02/> */}
       {/* <Lesson_03 /> */}
 
-      {/* ----------------------------------------------------Homeworks-------------------------------------------------------*/}
+      {/* ---------------------------------------------------- Homeworks -------------------------------------------------------*/}
       {/* <Homework_02 /> */}
       {/* <Homework_02_solution /> */}
+      <Homework_03 />
 
-      {/*  ---------------------------------------------------Consultations---------------------------------------------------*/}
+
+      {/*  --------------------------------------------------- Consultations ---------------------------------------------------*/}
       {/* <Consultation_02 /> */}
     </div>
   );
