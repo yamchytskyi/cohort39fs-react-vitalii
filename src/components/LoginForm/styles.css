@@ -1,14 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
 
-.loginForm-component {
+.login-form-component {
     display: flex;
     flex-direction: column;
     width: 590px;
-    height: auto;
+    height: fit-content;
     min-height: 450px;
     border: 1px solid #000000;
     border-radius: 4px;
     padding: 60px;
+    background-color: white;
     gap: 30px;
     font-family: "Lato", sans-serif;
     
@@ -17,9 +18,16 @@
 .title {
     width: 471px;
     height: 24px;
+    color: #000000;
     font-size: 24px;
     font-weight: 400;
     line-height: 24px;
     padding: 0 0 20px;
     text-align: left;
+}
+
+.input-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px
 }

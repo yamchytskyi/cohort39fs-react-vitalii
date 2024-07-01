@@ -1,12 +1,10 @@
 .button-component {
-  width: 470px;
-  height: auto;
+  width: 100%;
   max-height: 70px;
   padding: 20px 54px 20px 54px;
   font-size: 20px;
   font-weight: 400;
   line-height: 30px;
-  
   color: #FFFFFF;
   background: #1f27f5;
   border: none;
