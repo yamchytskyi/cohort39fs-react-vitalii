@@ -15,7 +15,6 @@ function Counter() {
 
   const onPlus = () => {
     setCount((prevValue)  => {
-        console.log(prevValue)
         return prevValue + 1;
     })
   }
